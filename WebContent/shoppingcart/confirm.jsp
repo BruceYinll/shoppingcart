@@ -39,6 +39,7 @@
 					for(String book:books){
 						out.print(book);
 						out.print("<br>");
+						out.print("恭喜您，购书成功！！！");
 					}
 				%>
 			</td>
